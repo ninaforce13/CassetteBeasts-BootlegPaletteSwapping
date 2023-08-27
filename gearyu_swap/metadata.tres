@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://data/ContentInfo.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+id = "gearyu_mod"
+name = "gearyu_palette_swap"
+version_code = 0
+version_string = "1.0"
+author = "NCrafters"
+save_file_format_tag = ""
+save_file_format_tag_version = 0
+network_protocol_tag = ""
+modified_files = [ "res://data/monster_forms/gearyu.tres" ]
+modified_dirs = [  ]
